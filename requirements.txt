@@ -1,9 +1,5 @@
-torch
-torchvision
-opencv-python
-numpy
-scipy
-pillow
 streamlit
 transformers
-langchain
+torch
+Pillow
+umm..maybe=huggingface pretrained models.
