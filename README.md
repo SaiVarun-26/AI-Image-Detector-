@@ -38,7 +38,6 @@ The application provides a confidence score and an intuitive UI for seamless int
 
 ---
 ``ai-image-detector/
-│
 ├── app.py               # Main Streamlit application
 ├── requirements.txt     # Project dependencies
 └── README.md            # You are here :D``
