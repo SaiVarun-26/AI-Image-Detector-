@@ -37,11 +37,11 @@ The application provides a confidence score and an intuitive UI for seamless int
 - **Pillow (PIL)**
 
 ---
-ai-image-detector/
+``ai-image-detector/
 │
 ├── app.py               # Main Streamlit application
 ├── requirements.txt     # Project dependencies
-└── README.md            # You are here :D
+└── README.md            # You are here :D``
 
 ---
 
